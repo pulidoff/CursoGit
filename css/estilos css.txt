@@ -1,3 +1,5 @@
 stylesheet text css
 
 letra negrita y color fuente rojo
+
+font size:18 pix
